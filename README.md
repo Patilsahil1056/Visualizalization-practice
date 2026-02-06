@@ -37,4 +37,4 @@ Showing the market share contribution of each product to the total annual sales.
 ## 🧪 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/patilsahil1056/Visualizalization-practice.git](https://github.com/patilsahil1056/Visualizalization-practice.git)
+   git clone https://github.com/Patilsahil1056/Visualizalization-practice
